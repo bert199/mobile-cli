@@ -1,11 +1,12 @@
-# mobile-cli
+# mobileh5-cli
 
-> mobile-cli 是 创建 mobile-h5 产品工程模板的命令行工具
+> mobileh5-cli 是 创建 mobile-h5 产品工程模板的命令行工具
 
 ## 安装
 
 ```bash
-npm install -g mobile-cli
+npm config set registry https://repo.huaweicloud.com/repository/npm/
+npm install -g mobileh5-cli
 ```
 
 ## 使用

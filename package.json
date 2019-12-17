@@ -1,11 +1,11 @@
 {
-  "name": "mobile-cli",
-  "version": "1.0.0",
+  "name": "mobileh5-cli",
+  "version": "1.0.1",
   "description": "mobile命令行工具，帮助开发人员快速创建mobile-h5项目工程",
   "scripts": {},
   "author": "bert199@163.com",
   "bin": {
-    "bingolink": "./src/index.js"
+    "mobile": "./src/index.js"
   },
   "repository": {
     "type": "git",
